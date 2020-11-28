@@ -1,6 +1,6 @@
 {
   "name": "react-typescript-chromium-extension-boilerplate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react-typescript-chromium-extension-boilerplate(no CRA)",
   "main": "index.js",
   "scripts": {
