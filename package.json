@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-chromium-extension-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.3",
+  "description": "react-typescript-chromium-extension-boilerplate(no CRA)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/dooking/react-typescript-chromium-extension-boilerplate.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "typescript",
+    "chrome",
+    "extension",
+    "boilerplate"
+  ],
+  "author": "dooking (http://github.com/dooking)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dooking/react-typescript-chromium-extension-boilerplate/issues"
