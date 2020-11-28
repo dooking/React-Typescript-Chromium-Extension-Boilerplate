@@ -1,5 +1,6 @@
 # Chrominum Extension Boilerplate
 > [Boostcamp 그룹프로젝트 사이드 프로젝트](https://github.com/boostcamp-2020/Project15-c-Client-Based-Formula-Editor)
+### https://www.npmjs.com/package/react-typescript-chromium-extension-boilerplate
 
 ## Features
 - React + Typescript + Chromium-extension 개발 환경 셋팅
@@ -7,7 +8,6 @@
 - Webpack, Babel, Eslint 설정 가능
 
 ## Install
-
 ```tsx
 git clone https://github.com/dooking/react-typescript-chromium-extension-boilerplate.git
 npm install
