@@ -1,13 +1,13 @@
 # Chrominum Extension Boilerplate
-> [Boostcamp 그룹프로젝트 사이드 프로젝트](https://github.com/boostcamp-2020/Project15-c-Client-Based-Formula-Editor)
+> [Side Project of Boostcamp-Group-Project](https://github.com/boostcamp-2020/Project15-c-Client-Based-Formula-Editor)
 
 ## Npm
 > https://www.npmjs.com/package/react-typescript-chromium-extension-boilerplate
 
 ## Features
-- React + Typescript + Chromium-extension 개발 환경 셋팅
-- CRA없이 React 설치
-- Webpack, Babel, Eslint 설정 가능
+- Boilerplate for React + Typescript + Chromium-extension
+- Install React without CRA
+- Custom setting Webpack, Babel, Eslint 
 
 ## Install
 ```tsx
@@ -22,17 +22,19 @@ npm install
   |── ├── background.js         // Browser event handler
   |── ├── index.html            // Root html
   |── ├── index.css             // Root css
-  |── ├── mainfest.json         // Extension 설정 파일
+  |── ├── mainfest.json         // Extension setting file
   |── ├── options.html          // Option Component
   │   └── options.js            // Option Script
   └── 📁 src
       ├── App.tsx               // Component
-      └── index.tsx             // Webpack의 entry point
+      └── index.tsx             // Webpack entry point
   ```
 
 ## How to use
 ### 1. ```npm run build```
-### 2. chrome://extensions 사이트 접속 후, 1번에서 개발자 모드 ON, 2번에서 dist 폴더 업로드
+### 2. chrome://extensions
+### 3. 1) Click on Developer Mode 'ON'
+### 4. 2) Upload Dist folder
 ![image](https://user-images.githubusercontent.com/60457112/100499539-d0603000-31ad-11eb-9967-5bb1ce11854b.png)
 
 ## Quote
